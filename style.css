@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(201, 186, 255);
+    background-color: rgb(255, 211, 186);
 
 }
 
 h1{
-    color: rgb(55, 25, 83);
+    color: rgb(167, 79, 29);
 text-align: center;
 border: solid;
 }
 
 p{
-    color: rgb(55, 25, 83);  
+    color: rgb(167, 79, 29);
 text-align: center;
 }
 
@@ -19,5 +19,5 @@ img{
 }
 h2{
     text-align: center;
-    color: rgb(55, 25, 83);
+    color: rgb(167, 79, 29);
 }
