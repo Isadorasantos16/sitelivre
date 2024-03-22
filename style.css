@@ -6,6 +6,7 @@ body{
 h1{
     color: rgb(55, 25, 83);
 text-align: center;
+border: solid;
 }
 
 p{
@@ -14,5 +15,5 @@ text-align: center;
 }
 
 img{
-    text-align: center;
+    
 }
