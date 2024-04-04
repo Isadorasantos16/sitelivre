@@ -42,5 +42,7 @@ ul li{
        display: block;
         margin: auto;
     width: 850px;
-    border: solid;
+    border: solid 5px;
+    padding: 5px;
+    border-radius: 10px;
 }
