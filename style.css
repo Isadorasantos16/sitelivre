@@ -42,4 +42,5 @@ ul li{
        display: block;
         margin: auto;
     width: 850px;
-    }
+    border: solid;
+}
