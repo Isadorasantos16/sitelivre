@@ -45,3 +45,7 @@ ul li{
     border: solid 5px;
     border-radius: 10px;
 }
+a{
+    text-align: center;
+    color: rgb(167, 79, 29)
+}
