@@ -29,12 +29,12 @@ img{
     border-radius: 10px;
 }
 h2{
-    text-align: left;
+    text-align: center;
     color: rgb(167, 79, 29);
 }
 
 ul li{
-    text-align: center;
+    text-align: left;
     color: rgb(167, 79, 29)
 }
 
