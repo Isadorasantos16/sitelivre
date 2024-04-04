@@ -35,3 +35,6 @@ ul li{
     text-align: left;
     color: rgb(167, 79, 29)
 }
+iframe {
+    display: block;
+}
